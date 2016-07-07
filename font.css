@@ -9,7 +9,7 @@
        url('Panton_Light.svg') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
-  font-weight:  300;
+  font-weight:  normal;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -24,7 +24,7 @@
        url('Panton_Regular.svg') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
-  font-weight:  400;
+  font-weight:  normal;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -39,7 +39,7 @@
        url('Panton_SemiBold.svg') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
-  font-weight:  650;
+  font-weight:  normal;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -54,7 +54,7 @@
        url('Panton_Bold.svg') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
-  font-weight:  700;
+  font-weight:  normal;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
